@@ -4,7 +4,7 @@
 
 # 📝 Subtask 4.1.3 - Ontology driven information extraction from text 📝
 
-In this repository we include the material for the subtask 4.1.3. You can find more information on our workflow published on [SHH Open Marketplace](https://marketplace.sshopencloud.eu/workflow/tZ636O).
+In this repository we include the material for the subtask 4.1.3. You can find more information on our workflow published on [SSH Open Marketplace](https://marketplace.sshopencloud.eu/workflow/tZ636O).
 
 </div>
 
