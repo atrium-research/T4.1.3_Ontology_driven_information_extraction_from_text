@@ -2,7 +2,7 @@
 
 <img src="https://atrium-research.eu/assets/content/en/pages/communications-kit/clay.png" width="400" alt="Atrium Logo">
 
-# 📝 Subtast 4.1.3 - Ontology driven information extraction from text 📝
+# 📝 Subtask 4.1.3 - Ontology driven information extraction from text 📝
 
 In this repository we include the material for the subtask 4.1.3. You can find more information on our workflow published on [SHH Open Marketplace](https://marketplace.sshopencloud.eu/workflow/tZ636O).
 
