@@ -11,7 +11,7 @@ In this repository we include the material for the subtask 4.5.2. You can find m
 # 🛠️ Installation
 1. **Clone the repository**
    ```cmd
-   git clone https://github.com/NikolasKapr/Subtask-4.5.2-Geotagging-of-texts.git
+   git clone https://github.com/atrium-research/T4.1.3_Ontology_driven_information_extraction_from_text.git
    ```
 2. **Navigate to the project directory**
    ```cmd
