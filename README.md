@@ -11,11 +11,11 @@ In this repository we include all the material and digital methods for design, c
 # 🛠️ Installation
 1. **Clone the repository**
    ```cmd
-   git clone https://github.com/Digital-Methods-for-Knowledge-Graphs/Ontology-driven-information-extraction-from-text.git
+   git clone https://github.com/atrium-research/T4.1.3_Ontology_driven_information_extraction_from_text.git
    ```
 2. **Navigate to the project directory**
    ```cmd
-   cd Ontology-driven-information-extraction-from-text-main
+   cd T4.1.3_Ontology_driven_information_extraction_from_text
    ```
 3. **(Optional but recommended) Create and activate a virtual environment**
    
