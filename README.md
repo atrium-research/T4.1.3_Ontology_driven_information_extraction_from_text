@@ -2,9 +2,9 @@
 
 <img src="https://atrium-research.eu/assets/content/en/pages/communications-kit/clay.png" width="400" alt="Atrium Logo">
 
-# 📝 Ontology driven information extraction from text 📝
+# 📝 Subtast 4.1.3 - Ontology driven information extraction from text 📝
 
-In this repository we include all the material and digital methods for design, creation, population and deployment of Knowledge Graphs.
+In this repository we include the material for the subtask 4.1.3. You can find more information on our workflow published on [SHH Open Marketplace](https://marketplace.sshopencloud.eu/workflow/tZ636O).
 
 </div>
 
