@@ -1,0 +1,6 @@
+srsly
+spacy
+glmocr[selfhosted]
+tqdm
+zshot==0.0.11
+gliner==0.2.21
