@@ -4,3 +4,4 @@ glmocr[selfhosted]
 tqdm
 zshot==0.0.11
 gliner==0.2.21
+spacy-transformers @ git+https://github.com/explosion/spacy-transformers.git@master
