@@ -31,16 +31,7 @@ In this repository we include the material for the subtask 4.1.3. You can find m
    venv\Scripts\activate
    ```
 
-5. Upgrade pip
-   ```cmd
-   pip install --upgrade pip
-   ```
-   
-6. Install the required dependencies
-   ```cmd
-   pip install -r requirements.txt
-   ```
-7. Open the `ATRIUM_WP_4_1_3_workflow.ipynb` notebook using a code editor that supports Jupyter notebooks, such as Jupyter Notebook, JupyterLab, or VS Code.
+4. Open the `ATRIUM_WP_4_1_3_workflow.ipynb` notebook using a code editor that supports Jupyter notebooks, such as Jupyter Notebook, JupyterLab, or VS Code.
 
 📚 For more information on how to set up a virtual environment, visit the official documentation:
 - [Python venv documentation](https://docs.python.org/3/library/venv.html)
