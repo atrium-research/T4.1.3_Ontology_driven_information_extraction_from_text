@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://atrium-research.eu/assets/content/en/pages/communications-kit/clay.png" width="400" alt="Atrium Logo">
+<img src="https://atrium-research.eu/assets/content/assets/en/pages/communications-kit/clay.png" width="400" alt="Atrium Logo">
 
 # 📝 Subtask 4.1.3 - Ontology driven information extraction from text 📝
 
